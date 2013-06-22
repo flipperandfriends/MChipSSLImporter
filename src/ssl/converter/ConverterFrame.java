@@ -32,7 +32,7 @@ public class ConverterFrame extends JFrame {
 		new ConverterFrame();
 	}
 
-	private static final String TITLE = "SSL Key/Certificate Converter";
+	private static final String TITLE = "SSL Key/Certificate Converter v1.0";
 	private static final int WIDTH = 800, HEIGHT = 800;
 
 	// Error messages
